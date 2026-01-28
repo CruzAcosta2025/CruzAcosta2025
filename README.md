@@ -1,2 +1,3 @@
-Hola, soy Ruben
-Estoy aprendiendo sobre machine learning
+Visual Basic (.NET)
+LARAVEL 
+SQL SERVER
